@@ -1,0 +1,14 @@
+.full-width {
+  width: 100%;
+}
+
+.dialog-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 8px;
+}
+
+.close-icon {
+  margin: -8px;
+}
